@@ -10,4 +10,4 @@ En esta sección se podrá acceder a las tareas del alumno LUIS FELIPE RANGEL SA
 
 ### Tarea 1
 
-- [Tarea 1](Tareas/Tarea1.ipynb) Creación y operaciones básicas con PySpark
+- [Tarea 1](Tarea1.ipynb) Creación y operaciones básicas con PySpark
